@@ -1,2 +1,2 @@
 # bugbounty
-Bug Bounty notes to share 
+Bug Bounty notes to share 👾 
